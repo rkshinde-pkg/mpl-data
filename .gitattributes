@@ -1,0 +1,5 @@
+/config/app_url.js merge=ours
+/config/app_url.js merge=ours
+/config/grpc_url.js merge=ours
+/pages/_document.js merge=ours
+/next.config.js merge=ours

@@ -1,0 +1,63 @@
+{
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start",
+    "analyze": "cross-env ANALYZE=1 next build",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-source-maps": "^0.0.3",
+    "app-root-path": "^2.1.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.3",
+    "express-http-to-https": "^1.1.4",
+    "faker": "^4.1.0",
+    "grpc": "^1.15.1",
+    "grpc-caller": "^0.9.0",
+    "ismobilejs": "^0.5.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "jquery": "^3.3.1",
+    "mobile-detect": "^1.4.3",
+    "moment": "^2.22.2",
+    "morgan": "^1.9.1",
+    "next": "^7.0.3",
+    "next-optimized-images": "^2.5.1",
+    "next-seo": "^1.11.2",
+    "node-sass": "^4.9.3",
+    "node-zookeeper-client": "^0.2.3",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "react": "^16.5.2",
+    "react-device-detect": "^1.6.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^6.0.1",
+    "react-slick": "^0.23.2",
+    "react-slick-slider": "^0.15.10",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "slick-carousel": "^1.8.1",
+    "styled-jsx-plugin-sass": "^1.0.0",
+    "webpack-bundle-analyzer": "^3.0.2",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.3.2"
+  },
+  "name": "mpl",
+  "description": "Website",
+  "version": "1.0.0",
+  "main": "ecosystem.config.js",
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/mpl-gaming/mpl-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mpl-gaming/mpl-website#readme"
+}
