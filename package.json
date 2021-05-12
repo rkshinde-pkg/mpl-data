@@ -18,7 +18,7 @@
     "express": "^4.16.3",
     "express-http-to-https": "^1.1.4",
     "faker": "^4.1.0",
-    "grpc": "^1.15.1",
+    "grpc": "^1.24.9",
     "grpc-caller": "^0.9.0",
     "ismobilejs": "^0.5.1",
     "isomorphic-unfetch": "^3.0.0",
