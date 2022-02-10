@@ -29,7 +29,7 @@
     "next": "^7.0.3",
     "next-optimized-images": "^2.5.1",
     "next-seo": "^1.11.2",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "node-zookeeper-client": "^0.2.3",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "react": "^16.5.2",
